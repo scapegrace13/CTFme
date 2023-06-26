@@ -3,12 +3,13 @@
 #   Project:    CTFme
 #   author:     SCAPE
 #   Category:   cypto
-#   Challenge:  The base
+#   Challenge:  What the rot
 #   difficulty: very easy
-#   Version:    0.2
+#   Version:    0.1
 #
 
-base_flag = "Q1RFbWV7d2VsY29tZV90b190aGVfYmFzZV9mbGFnfQ=="
+base_flag = "PGRzr{bxnl_gung_ebg_rnfl}"
+
 
 def main():
     do_some_magic = base_flag
@@ -18,6 +19,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
