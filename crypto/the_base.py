@@ -4,7 +4,7 @@
 #   author:     SCAPE
 #   Category:   cypto
 #   Challenge:  The base
-#   Version:    0.1
+#   Version:    0.2
 #
 
 base_flag = "Q1RFbWV7d2VsY29tZV90b190aGVfYmFzZV9mbGFnfQ=="
