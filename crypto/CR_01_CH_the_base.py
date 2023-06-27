@@ -7,6 +7,8 @@
 #   difficulty: very easy
 #   Version:    1.0
 #
+#   Challenge Text: Find the base flag ;) LUL
+#
 
 base_flag = "Q1RFbWV7d2VsY29tZV90b190aGVfYmFzZV9mbGFnfQ=="
 

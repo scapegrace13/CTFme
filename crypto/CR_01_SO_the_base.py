@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 #
 #   Project:    CTFme
-#   author:     SCAPE
+#   author:     scapegrace13
 #   Category:   cypto
 #   Challenge:  The base
 #   difficulty: very easy
 #   Version:    1.0
+#
+#   Challenge Text: Find the base flag ;) LUL
 #
 import base64
 

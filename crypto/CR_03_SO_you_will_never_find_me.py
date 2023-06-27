@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 #
 #   Project:    CTFme
-#   author:     SCAPE
+#   author:     scapegrace13
 #   Category:   cypto
 #   Challenge:  You will never find me
 #   difficulty: easy
 #   Version:    1.0
+#
+#   Challenge Text: You have to find me, good luck rotating like a helicopter. pepehands
 #
 from codecs import encode
 import base64

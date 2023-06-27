@@ -1,11 +1,19 @@
 #!/usr/bin/python3
 #
 #   Project:    CTFme
-#   author:     SCAPE
+#   author:     scapegrace13
 #   Category:   cypto
 #   Challenge:  Wifi since 1999
 #   difficulty: medium
-#   Version:    0.1
+#   Version:    0.2
+#
+#   Challenge Text:
+#   I mean, the challenge name...do it via python, the pcap will come later.
+#   I maybe lost a keychain in here. I remember nothing and numeric leet, then there was the answer to everything and FF
+#
+#   When you DO understand the hints and DO know what you are looking for:      Key found!: XXX at No. 7.140.608 after 18.0s
+#   When you DO understand the hints and DONT know what you are looking for:    Key found!: XXX at No. 34.238.208 after 326.0s
+#   When you DONT understand the hints and DONT know what you are looking for:  Key found!: XXX at No. 220.539.648 after 2072.0s
 #
 import random
 import timeit
@@ -15,15 +23,7 @@ start = timeit.default_timer()
 
 base_flag = [72, 66, 103, 65, 154, 112, 117, 83, 73, 158, 127, 115, 126, 85, 144, 126, 100, 126, 67, 136, 101, 73, 71, 64, 158, 108, 73, 73, 73, 141, 110, 107]
 # base_flag = [67, 89, 99, 71, 154]
-#
-#   maybe you want to give some hints here
-#   I maybe lost a keychain in here. I remember nothing and numeric leet, then there was the answer to everything FF
-#
-#   searching the keychain should take between 10s and 1800s
-#   when you understand the hints and know what you are looking for:  Key found!: XXX at No. 7140608 after 18.0s
-#   when you understand the hints and DONT know what you are looking for:  Key found!: XXX at No. 34238208 after 326.0s
-#   when you DONT understand the hints and DONT know what you are looking for: Key found!: XXX at No. 220539648 after 2072.0s
-#
+
 
 
 def main():

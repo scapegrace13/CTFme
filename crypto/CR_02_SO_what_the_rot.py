@@ -7,6 +7,8 @@
 #   difficulty: very easy
 #   Version:    1.0
 #
+#   Challenge Text: What the ROT ??? I mean really?
+#
 from codecs import encode
 base_flag = "PGRzr{bxnl_gung_ebg_rnfl}"
 
