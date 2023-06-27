@@ -5,7 +5,7 @@
 #   Category:   cypto
 #   Challenge:  Wifi since 1999
 #   difficulty: medium
-#   Version:    0.2
+#   Version:    0.3
 #
 #   Challenge Text:
 #   I mean, the challenge name...do it via python, the pcap will come later.
