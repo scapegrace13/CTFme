@@ -5,7 +5,7 @@
 #   Category:   cypto
 #   Challenge:  What the rot
 #   difficulty: very easy
-#   Version:    0.1
+#   Version:    1.0
 #
 
 base_flag = "PGRzr{bxnl_gung_ebg_rnfl}"
@@ -16,6 +16,7 @@ def main():
     print("Here you will see the flag...")
     print(base_flag)
     print(do_some_magic)
+
 
 if __name__ == "__main__":
     main()

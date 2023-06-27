@@ -5,10 +5,11 @@
 #   Category:   cypto
 #   Challenge:  You will never find me
 #   difficulty: easy
-#   Version:    0.1
+#   Version:    1.0
 #
 
 base_flag = "WVBBaWF7aGtrZ19wZHdwX25rcF9lb19pa25hX3BuZXlndX0="
+
 
 def main():
     do_some_magic = base_flag

@@ -5,7 +5,7 @@
 #   Category:   cypto
 #   Challenge:  What the rot
 #   difficulty: very easy
-#   Version:    0.1
+#   Version:    1.0
 #
 from codecs import encode
 base_flag = "PGRzr{bxnl_gung_ebg_rnfl}"
@@ -18,5 +18,16 @@ def main():
     print(do_some_magic)
 
 
+def create_flag():
+    flag_txt = "CTEme{create_your_own_flag_here}"
+    flag = encode(flag_txt, "rot13")
+    print("that will be your flag:")
+    print(flag_txt)
+    print(flag)
+
+
 if __name__ == "__main__":
+    print("")
     main()
+    print("")
+    # create_flag()
