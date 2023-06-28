@@ -14,3 +14,6 @@
 #   sha512sum FN_01_CH_needle_in_a_haystack.tar.gz
 #   e3e8556f7ae6428005fe04cf6c3c94c9798bcce835fc36c6ff29b666d6beab0be3e5d429c05577f901457db1c30039fd79c8f06ec52011c915fafa781b888a1b  FN_01_CH_needle_in_a_haystack.tar.gz
 #
+#   CTFme{this_is_the_wrong_flag_sorry}
+#   This flag is obviously wrong
+#

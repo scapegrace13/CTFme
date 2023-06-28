@@ -33,7 +33,8 @@ CR = Crypto \
 RE = Reverse engineering \
 MI = Misc \
 FN = Fun \
-WE = Web 
+WE = Web \
+CK = Cracking
 
 #### Number
 01 = Challenge 01 \

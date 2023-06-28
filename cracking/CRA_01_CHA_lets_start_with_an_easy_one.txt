@@ -1,0 +1,15 @@
+#
+#   Project:    CTFme
+#   author:     scapegrace13
+#   Category:   cracking
+#   Challenge:  Lets start with an easy one
+#   difficulty: easy
+#   Version:    0.1
+#
+#   Challenge Text:
+#   Hey, can you help me recovering my password? John said maybe some rocks could help?
+#   And I want to mention, I really don't support nor like cats. But "thread-10219-2" will explain you why.
+#
+#   sha1sum CRA_01_CHA_lets_start_with_an_easy_one.zip
+#   8ea6046dc78a69f01b40b8b10f4b39941086da3f  CRA_01_CHA_lets_start_with_an_easy_one.zip
+#
